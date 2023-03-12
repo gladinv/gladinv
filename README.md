@@ -1,9 +1,9 @@
 ### Hi, I'm Gladin Varghese! 👋
 
-- 🔭 I’m currently working on Data Science, AI/ML,NLP.
-- 🌱 I’m currently learning more Data Science.
-- 👯 I’m looking to collaborate on Data Science.
-- 💬 Ask me about Data Science.
+- 🔭 I’m currently working on Data Science, AI/ML, NLP.
+- 🌱 I’m currently seeking a job opportunity in Data Science.
+- 👯 I’m looking to collaborate on Data Science related opportunities.
+- 💬 Ask me about Data Science and Fitness.
 - 📫 How to reach me: [\[Twitter - @gladinvarghese\]](https://twitter.com/gladinvarghese)
 - ⚡ Fun fact: I love to workout everyday!
 
